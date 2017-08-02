@@ -5,6 +5,7 @@
 * Karl Benedict, University of New Mexico. kbene[at]unm.edu
 * W. Christopher Lenhardt, RENCI.
 * Joshua Young, UCAR. 
+* Larissa Chamley Gordon, University of Colorado, Boulder. 
 * John Steven Hughes, NASA Jet Propulsion Laboratory. 
 * Suresh Vannan, Oak Ridge National Laboratory.
 
